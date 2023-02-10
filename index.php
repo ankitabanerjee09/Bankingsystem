@@ -100,7 +100,7 @@
         } */
         footer {
             text-align: center;
-            margin-top: auto;
+            margin-top: 13px;
              background-color: black; 
             color: whitesmoke;
             padding: 10px;
